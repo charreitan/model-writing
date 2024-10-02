@@ -15,4 +15,5 @@
         // unlock or scan door //   
     
     // methods //
-        // 
+        // go to floor 4 //
+        // move between floors //
